@@ -21,8 +21,6 @@ The first SLTAT dates back to 2011. See the SLTAT history web page (http://sltat
 
 LISN, Digiteo Moulon Batiment 660 université paris-saclay, 660 Av. des Sciences Bâtiment, 91190, 91190 Gif-sur-Yvette 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2632.636685584252!2d2.1690727!3d48.71242480000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67fda7544cabd%3A0xdd8208c3025b72e9!2sDigiteo%20Moulon%20Batiment%20660%20universit%C3%A9%20paris-saclay!5e0!3m2!1sfr!2sfr!4v1789378395151!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
-
 **ROOM SHANNON**
 
 ## Languages
